@@ -5,4 +5,3 @@ function myPush(arr, ...params) {
   }
   return arr.length;
 };
-caches  
